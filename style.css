@@ -1,0 +1,25 @@
+body {
+    background: url(https://hasagi.id/wp-content/uploads/2020/11/Bigetron-Logo-1024x576-1.jpg);
+    background-size: cover;
+    color: red;
+    font-size: 125px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 150px 300px;
+}
+
+#jam {
+    font-size: 3.0pc;
+}
+
+#tanggal {
+    font-size: 5pc;
+}
+
+#jam,
+#tanggal {
+    text-shadow: 0 10px 10px black;
+    justify-content: center;
+}
